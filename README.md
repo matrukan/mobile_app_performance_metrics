@@ -48,7 +48,7 @@ pip install -r requirements.txt
 jupyter notebook mobile_app_performance_metrics.ipynb
 ```
 
-## 📊 Sample Metrics Visualized
+## 📊 Metrics Visualized
 
 - Daily active users
 - Crash-free sessions
