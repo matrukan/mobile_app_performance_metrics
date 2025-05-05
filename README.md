@@ -81,9 +81,12 @@ The dataset contains:
 
 ## 🧠 Insights & Recommendations
 
-![Crash Rates](https://github.com/user-attachments/assets/16c3f7d8-14b1-48c1-b573-22707aa41b9e)
+![Crash_rates_by_device_type_OS_Version](https://github.com/user-attachments/assets/9105439c-7e67-4fdf-a4ab-00f283eb53c3)
 
-![Performance Heatmap](https://github.com/user-attachments/assets/a5dfca30-30d3-4aec-a479-97e34286ad23)
+
+
+![Performance_scores_by_device_type_Heatmap](https://github.com/user-attachments/assets/1d58dc1e-6ba9-4697-b75f-f082920273cf)
+
 
 
 
