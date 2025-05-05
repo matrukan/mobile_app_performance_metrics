@@ -81,6 +81,13 @@ The dataset contains:
 
 ## 🧠 Insights & Recommendations
 
+![Crash Rates](https://github.com/user-attachments/assets/16c3f7d8-14b1-48c1-b573-22707aa41b9e)
+
+![Performance Heatmap](https://github.com/user-attachments/assets/a5dfca30-30d3-4aec-a479-97e34286ad23)
+
+
+
+
 - High crash rates after updates → rollout issues
 - Retention drops after day 3 → poor onboarding
 - Session duration plateau → low feature engagement
